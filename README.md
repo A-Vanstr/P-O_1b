@@ -1,4 +1,4 @@
-# P&O_1b Team 209
+![gifBacktrackn3](https://github.com/user-attachments/assets/c36d5084-1043-468f-8eca-93d93af59893)# P&O_1b Team 209
 
 Dit project bevat de code voor het P&O_1b project van Team 209.
 
@@ -15,6 +15,9 @@ Foto Browserapplicatie (foto in verslag was perongeluk nog oude versie)
 
 Voorbeeld van website werking bij een echt spel (niet laatste versie van website)
 ![Untitled Projecthg 2](https://github.com/user-attachments/assets/be998ea8-4522-42a8-9f78-71b1282d57e8)
+
+Animatie van backtracking resultaat
+![gifBacktrackn3](https://github.com/user-attachments/assets/6828ed8f-f15d-4a6e-8360-a7b5b9798488)
 
 ## Browserapplicatie code
 
