@@ -1,0 +1,329 @@
+{
+  "dimensions": {
+    "rows": 4,
+    "cols": 6
+  },
+  "board": [
+    [
+      " ",
+      "R",
+      " ",
+      "G",
+      " ",
+      "G"
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      "R"
+    ],
+    [
+      "G",
+      "G",
+      "R",
+      "R",
+      "G",
+      "G"
+    ]
+  ],
+  "route": [
+    {
+      "row": 0,
+      "col": 0,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "pickup": false
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "pickup": true
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 0,
+      "col": 5,
+      "pickup": true
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "pickup": true
+    },
+    {
+      "row": 3,
+      "col": 5,
+      "pickup": true
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "pickup": false
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "pickup": false
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "pickup": false
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "pickup": false
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "pickup": true
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "pickup": true
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "pickup": false
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "pickup": false
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "pickup": false
+    }
+  ],
+  "instructions": [
+    {
+      "action": "R"
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "R"
+    },
+    {
+      "action": "F",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "action": "F",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "T180"
+    },
+    {
+      "action": "F",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "action": "F",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "T180"
+    },
+    {
+      "action": "F",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "action": "R"
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "action": "L"
+    },
+    {
+      "action": "F",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "R"
+    },
+    {
+      "action": "F",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "action": "P"
+    },
+    {
+      "action": "R"
+    },
+    {
+      "action": "F",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "action": "F",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "action": "F",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "action": "S"
+    }
+  ]
+}
