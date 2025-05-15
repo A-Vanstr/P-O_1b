@@ -19,3 +19,6 @@ Voorbeeld van website werking bij een echt spel (niet laatste versie van website
 ## Browserapplicatie code
 
 De belangrijkste file met ~95% van het werk is `website/src/pages/Dashboard.jsx`
+
+## Samenwerking met AI
+Bij de ontwikkeling van de browserapplicatie is intensief gebruikgemaakt van AI-tools zoals ChatGPT en WindSurf. Deze keuze werd bewust gemaakt, aangezien de applicatie is gebouwd met moderne en complexe webtechnologieën die voor een eerstejaarsstudent anders moeilijk toegankelijk zouden zijn. Dankzij deze ondersteuning kon ik niet alleen een functionele en hedendaagse applicatie opleveren, maar ook veel bijleren over actuele web development praktijken — meer dan met een traditionele HTML-benadering mogelijk zou zijn geweest. Naarmate het project vorderde, nam mijn eigen inzicht en vaardigheid toe, waardoor ik in latere fases steeds meer code zelfstandig en zonder hulp van AI kon schrijven.
