@@ -15,3 +15,7 @@ Foto Browserapplicatie (foto in verslag was perongeluk nog oude versie)
 
 Voorbeeld van website werking bij een echt spel (niet laatste versie van website)
 ![Untitled Projecthg 2](https://github.com/user-attachments/assets/be998ea8-4522-42a8-9f78-71b1282d57e8)
+
+## Browserapplicatie code
+
+De belangrijkste file met ~95% van het werk is `website/src/pages/Dashboard.jsx`
