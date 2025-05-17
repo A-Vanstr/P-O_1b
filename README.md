@@ -1,4 +1,4 @@
-![gifBacktrackn3](https://github.com/user-attachments/assets/c36d5084-1043-468f-8eca-93d93af59893)# P&O_1b Team 209
+# P&O_1b Team 209
 
 Dit project bevat de code voor het P&O_1b project van Team 209.
 
